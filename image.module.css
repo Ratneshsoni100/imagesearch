@@ -1,0 +1,10 @@
+.one{
+    display: grid;
+    grid-template-columns: repeat(auto-fill,minmax(300px,450px));
+    grid-template-rows: repeat(auto,300px);
+gap: 10px;
+}
+.images{
+    height: 70%;
+    width: 100%;
+}
